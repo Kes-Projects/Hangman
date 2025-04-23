@@ -1,1 +1,1 @@
-Simple hangman game as a beginner project
+Simple hangman game
